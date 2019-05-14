@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:0;height:0;position:absolute;overflow:hidden;">
+  <defs>
+<symbol viewBox="0 0 320 192" aria-labelledby="akesi-ionic-ios-arrow-down-title" id="si-ionic-ios-arrow-down"><title id="akesi-ionic-ios-arrow-down-title">icon ios-arrow-down</title><path d="M300.6 0L320 20.7 160 192 0 20.7 19.3 0 160 150.5z"/></symbol>
+<symbol viewBox="0 0 192 320" aria-labelledby="akgsi-ionic-ios-arrow-left-title" id="si-ionic-ios-arrow-left"><title id="akgsi-ionic-ios-arrow-left-title">icon ios-arrow-left</title><path d="M192 19.4L171.3 0 0 160l171.3 160 20.7-19.3L41.5 160z"/></symbol>
+<symbol viewBox="0 0 192 320" aria-labelledby="akhsi-ionic-ios-arrow-right-title" id="si-ionic-ios-arrow-right"><title id="akhsi-ionic-ios-arrow-right-title">icon ios-arrow-right</title><path d="M0 19.4L20.7 0 192 160 20.7 320 0 300.7 150.5 160z"/></symbol>
+<symbol viewBox="0 0 320 192" aria-labelledby="akmsi-ionic-ios-arrow-up-title" id="si-ionic-ios-arrow-up"><title id="akmsi-ionic-ios-arrow-up-title">icon ios-arrow-up</title><path d="M300.6 192l19.4-20.7L160 0 0 171.3 19.3 192 160 41.5z"/></symbol>
+  </defs>
+</svg>
